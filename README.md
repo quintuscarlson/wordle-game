@@ -59,3 +59,5 @@ You guessed the Word!
 - Basic game logic  
 - Use of vectors, loops, and helper functions
 
+## Notes on Originality
+This project was completed as an academic assignment and included a starter skeleton provided by the course instructor. I implemented the majority of the logic myself, but the starter structure was provided. This README does not claim exclusive authorship over the original skeleton, only over the work I added.
