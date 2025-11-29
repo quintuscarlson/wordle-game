@@ -26,25 +26,26 @@ The game flow:
 ## File Requirements
 Place a file named `wordbank.txt` in the same directory as the program.  
 Each line should contain one valid 5-letter word.  
-Example:  
+**Example:**  
 apple  
 crane  
 spice  
 table  
 
 ## How To Run
-Compile and run using any C++ compiler:
-g++ -std=c++11 wordle.cpp -o wordle
-./wordle
+**Compile and run using any C++ compiler:** g++ -std=c++11 wordle.cpp -o wordle
+
+**Run:** ./wordle
 
 ## Example Output
-Enter Your Guess: train
---*-!
-Enter Your Guess: plane
-PLANE
-*----
-...
-You guessed the Word!
+Enter Your Guess: train  
+TRAIN  
+--*-!  
+Enter Your Guess: plane  
+PLANE  
+*----    
+...    
+You guessed the Word!    
 
 ## Project Structure
 - `wordle.cpp` — main program logic
