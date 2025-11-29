@@ -25,12 +25,12 @@ The game flow:
 
 ## File Requirements
 Place a file named `wordbank.txt` in the same directory as the program.  
-Each line should contain one valid 5-letter word.
-Example:
-apple
-crane
-spice
-table
+Each line should contain one valid 5-letter word.  
+Example:  
+apple  
+crane  
+spice  
+table  
 
 ## How To Run
 Compile and run using any C++ compiler:
