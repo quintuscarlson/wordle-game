@@ -1,4 +1,4 @@
-# Wordle Game (C++)
+# Wordle-Style Word Game Engine (C++)
 
 ## Overview
 This project is a C++ implementation of a Wordle-style word guessing game. The program selects a random 5-letter word from a provided word list and gives the player six attempts to guess it. After each guess, the game outputs feedback showing which letters are correct, present in the word but misplaced, or not in the word at all.
